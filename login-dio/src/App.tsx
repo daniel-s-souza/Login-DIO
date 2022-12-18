@@ -1,9 +1,9 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { Cadastro } from "./pages/register/register";
+import { Cadastro } from "./pages/register";
 import Feed from "./pages/feed";
-import HomePage from "./pages/home/home"
-import Login from "./pages/login/login"
+import HomePage from "./pages/homepage"
+import Login from "./pages/login"
 
 function App() {
   return (

@@ -2,9 +2,9 @@ import React from 'react';
 import { useForm } from "react-hook-form";
 import { MdEmail, MdLock} from "react-icons/md"
 import { useNavigate } from "react-router-dom";
-import Button from "../../components/button/button";
-import Header from "../../components/header/header";
-import InputComponent from "../../components/input/input";
+import Button from "../../components/button";
+import Header from "../../components/header";
+import InputComponent from "../../components/input";
 import {
 	Column,
 	CriarText,
