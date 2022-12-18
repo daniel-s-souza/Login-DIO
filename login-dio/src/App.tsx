@@ -1,3 +1,4 @@
+import React from 'react'
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Cadastro } from "./pages/register/register";
 import Feed from "./pages/feed/feed";
