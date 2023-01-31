@@ -8,9 +8,9 @@ const Card = () => {
             <CardImage src="https://i.ytimg.com/vi/0EKTZcrUF5w/maxresdefault.jpg" alt=""/>
             <Content>
                 <UserInfo>
-                    <UserPicture src="https://avatars.githubusercontent.com/u/110000201?v=4" alt="Autor(a) do Post"/>
+                    <UserPicture src="https://avatars.githubusercontent.com/u/88973212?s=400&u=7e58326752f7f4495ecfcd629526fc22754e07d0&v=4" alt="Autor(a) do Post"/>
                     <div>
-                        <h4>Sarah Schneider</h4>
+                        <h4>Daniel Santana de Souza</h4>
                         <p>há 11 minutos</p>
                     </div>
                 </UserInfo>
